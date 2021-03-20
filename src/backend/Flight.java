@@ -13,7 +13,7 @@ public class Flight {
     }
 
     public String getDetails() {
-        return "Flight from " + this.departure + " to" + this.arrival + " cost" + this.price;
+        return "Flight from " + this.departure + " to " + this.arrival + " cost " + this.price;
 
 
         }
